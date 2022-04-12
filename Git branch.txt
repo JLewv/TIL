@@ -1,0 +1,8 @@
+명령어
+git branch : 현재 브랜치 확인
+git branch [ ] : 브랜치 생성
+git branch -d [ ] : 브랜치 제거 // -D로 하면 강제 삭제
+git branch -r : 원격 저장소의 브랜치 목록 확인
+git switch : 브랜치 교체
+git swich -c [ ] : 브랜치 생성 후 바로 교체 
+git merge <합칠 브랜치 이름> : 브랜치 병합
